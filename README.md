@@ -1,6 +1,6 @@
 # Microcontroller course
 
-The projects below are based on the PIC16F877A architecture and were executed using [PIC Simulator IDE](https://www.oshonsoft.com/pic.html).
+The projects below are based on the PIC16F877A architecture and were executed with [PIC Simulator IDE](https://www.oshonsoft.com/pic.html).
 
 ## Project 1: Twinkling Lights
 Starting with 0x55 (01010101), invert all bits using the COMF command.
