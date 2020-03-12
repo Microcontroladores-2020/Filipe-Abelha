@@ -1,4 +1,4 @@
-#Microcontroller course
+# Microcontroller course
 
 The projects below are based on the PIC16F877A architecture and were executed using [PIC Simulator IDE](https://www.oshonsoft.com/pic.html).
 
